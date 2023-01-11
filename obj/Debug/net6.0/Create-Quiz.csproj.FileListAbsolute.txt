@@ -1,0 +1,15 @@
+\\fs-059\studuser$\Gr12\s.stockdale1\CS20\C#\Create-Quiz\bin\Debug\net6.0\Create-Quiz.exe
+\\fs-059\studuser$\Gr12\s.stockdale1\CS20\C#\Create-Quiz\bin\Debug\net6.0\Create-Quiz.deps.json
+\\fs-059\studuser$\Gr12\s.stockdale1\CS20\C#\Create-Quiz\bin\Debug\net6.0\Create-Quiz.runtimeconfig.json
+\\fs-059\studuser$\Gr12\s.stockdale1\CS20\C#\Create-Quiz\bin\Debug\net6.0\Create-Quiz.dll
+\\fs-059\studuser$\Gr12\s.stockdale1\CS20\C#\Create-Quiz\bin\Debug\net6.0\Create-Quiz.pdb
+\\fs-059\studuser$\Gr12\s.stockdale1\CS20\C#\Create-Quiz\obj\Debug\net6.0\Create-Quiz.csproj.AssemblyReference.cache
+\\fs-059\studuser$\Gr12\s.stockdale1\CS20\C#\Create-Quiz\obj\Debug\net6.0\Create-Quiz.GeneratedMSBuildEditorConfig.editorconfig
+\\fs-059\studuser$\Gr12\s.stockdale1\CS20\C#\Create-Quiz\obj\Debug\net6.0\Create-Quiz.AssemblyInfoInputs.cache
+\\fs-059\studuser$\Gr12\s.stockdale1\CS20\C#\Create-Quiz\obj\Debug\net6.0\Create-Quiz.AssemblyInfo.cs
+\\fs-059\studuser$\Gr12\s.stockdale1\CS20\C#\Create-Quiz\obj\Debug\net6.0\Create-Quiz.csproj.CoreCompileInputs.cache
+\\fs-059\studuser$\Gr12\s.stockdale1\CS20\C#\Create-Quiz\obj\Debug\net6.0\Create-Quiz.dll
+\\fs-059\studuser$\Gr12\s.stockdale1\CS20\C#\Create-Quiz\obj\Debug\net6.0\refint\Create-Quiz.dll
+\\fs-059\studuser$\Gr12\s.stockdale1\CS20\C#\Create-Quiz\obj\Debug\net6.0\Create-Quiz.pdb
+\\fs-059\studuser$\Gr12\s.stockdale1\CS20\C#\Create-Quiz\obj\Debug\net6.0\Create-Quiz.genruntimeconfig.cache
+\\fs-059\studuser$\Gr12\s.stockdale1\CS20\C#\Create-Quiz\obj\Debug\net6.0\ref\Create-Quiz.dll
